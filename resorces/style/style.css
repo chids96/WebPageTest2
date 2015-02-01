@@ -1,6 +1,3 @@
-.body{
-	background-color:white;
-}
 .main{
 	background-color:lightblue;
 	width : 80%;
@@ -11,19 +8,26 @@
 	border-color:black;
 	border-radius:1px;
 }
+.main header{
+background-color:#66CCCC;
+}
 .main header h1{
-margin:1%;
+padding-top: 1%;
 font-family: Impact, Charcoal, sans-serif;
 }
 .main header nav{
 	background-color:grey;
-	height:5%
+	height:auto;
 }
 .main header nav a{
 	text-decoration:none;
 	color:white;
+	height:100%;
 	margin-left:8%;
 	margin-right:8%;
 	font-size:30px;
 	font-family: Impact, Charcoal, sans-serif;
+}
+.main header nav a:hover, .main header nav a:active{
+		background:lightgrey;
 }
