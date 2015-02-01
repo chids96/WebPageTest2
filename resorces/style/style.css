@@ -31,3 +31,7 @@ font-family: Impact, Charcoal, sans-serif;
 .main header nav a:hover, .main header nav a:active{
 		background:lightgrey;
 }
+.content{
+	text-align: left;
+	margin:2%;
+}
