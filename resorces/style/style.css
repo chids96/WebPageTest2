@@ -56,6 +56,27 @@ a{
 	width:20%;
 	height:auto;
 }
+.content #left{
+	float:left;
+	clear:top;
+	width:30%;
+	height:auto;
+	vertical-align:left;
+}
+.content #center{
+	float:left;
+	clear:top;
+	width:30%;
+	height:auto;
+	vertical-align:center;
+}
+.content #right{
+	float:left;
+	clear:top;
+	width:30%;
+	height:auto;
+	vertical-align:right;
+}
 .content #aboutme{
 	margin:2%;
 	float:left;
